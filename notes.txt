@@ -1,0 +1,79 @@
+%%%%%%%%%%%%%%%%%%%%
+
+Vorlesungsablauf
+
+- Kurze Wiederholung
+
+- Zentrale Komponenten des VNS
+    - Limbisches System
+        - Hypothalamus
+    - Hirnstamm
+        - Medulla oblongata
+    - Rueckenmark
+
+- Reglation von Organfunktionen durch das VNS
+    - Herz-Kreislauf-System
+        - Blutdruckregulation
+        - Kontrolle Blutverteilung bei Muskelarbeit
+        - Kontrolle Blutvolumen
+    - Magen-Darm-Trakt
+        - Darmkontinenz und Defaekation
+        - Blasenkontinenz und Miktion
+    - Geschlecthsorganreflexe Frau und Mann
+    - Querschnittslaehmung, Denervierungs-Hypersensibilisierung
+
+%%%%%%%%%%%%%%%%%%%% 02:15
+\begin{frame}
+[Abbildung: verbindungen_VNS.png]
+
+\begin{frame}
+
+%%%%%%%%%%%%%%%%%%%% 03:30
+
+Vegetatives Nervensystem: Wiederholung 
+
+<brauchen wir nicht> 
+
+
+%%%%%%%%%%%%%%%%%%%% 05:33
+
+[Abbildung: VNS, Organe]
+
+Das_vegetative_Nervensystem.png
+
+
+Von Sciencia58 - Eigenes Werk, Neuzeichnung nach Campbell und Reece: Biologie, Auflage 2003, Abbildung 48.18, Seite 1244soll File:Das vegetative Nervensystem.jpg ersetzen, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=85846082
+
+%%%%%%%%%%%%%%%%%%%% 06:42
+
+Vegetatives Nervensystem: ZNS-Komponenten 
+
+- "Spontane" Aktivitaet Sympathikus/Parasympathikus = tonische/Ruheaktivitaet aufgrund zentraler Eingaenge, die signalisieren, dass Koerperzustand in Homoeostas ist und keine Veraenderung in Organaktivitaet noeting ist
+- Waehrend Schlaf ist Verhaletnis von Aktivitaet Sympathikus:Parasympathikus zugunsten des Parasympathikus verschoben, weil ZNS-Strukturen ihren Output veraendern
+    - \downarrow Herzfrequenz \downarrow Blutdruk, Miosis
+    - REM-Schlaf: weiterer Aball Sympathikusaktivitaet aufgrund Entkopplung von zentralen Strukturen, die seine Aktivitaet kontrollieren
+- Zentrale Strukturen, die VNS kontrollieren:
+    1. Limbisches System (v.a. Hypothalamus -> oft als Effektor des limbischen Systems betrachtet; kontaktiert direkt Sympathikus und Parasympathikus)
+    2. Medulla oblongata (Hauptzentrum VNS-instruierender Stukturen im HIrnstamm)
+    3. Rueckenmark (viele vegetative Reflexe finden hier autonom statt)
+
+%%%%%%%%%%%%%%%%%%%% 09:41
+
+Vegetatives Nervensystem: Limbisches System
+
+- Steuert Aktivitaet glatter Muskulatur, Herzmuskulatur und endokriner Gewebe
+- Ontogenetisch alter Teil des Gehirns
+
+- Funktionen
+    - Emotionen
+    - Sexualfunktion
+    - Verhaltensweisen
+    - vegetative Funktionen
+    - Gedaechtnisbildung
+
+- Anpassung inneres Milieu an motorische Verhalten und Umweltgegebenheiten
+-Erhaelt INput von praktisch allen ZNS-Strukturen, ist ale immer ueber den Ist-Zustand informiert. 
+     
+%%%%%%%%%%%%%%%%%%%% 10:58
+
+
